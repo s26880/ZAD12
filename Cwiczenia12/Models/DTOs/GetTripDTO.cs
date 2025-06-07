@@ -1,4 +1,4 @@
-﻿namespace CW_10_s30071.Models.DTOs;
+﻿namespace Cwiczenia12.Models.DTOs;
 
 public class GetTripDTO
 {

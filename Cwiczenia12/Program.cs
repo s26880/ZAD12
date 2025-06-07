@@ -1,9 +1,8 @@
-using CW_10_s30071.Data;
-using CW_10_s30071.Services;
+using Cwiczenia12.Data;
+using Cwiczenia12.Services;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 
-namespace CW_10_s30071;
+namespace Cwiczenia12;
 
 public class Program
 {

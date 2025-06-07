@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace CW_10_s30071.Models;
+﻿namespace Cwiczenia12.Models;
 
 public partial class Client
 {

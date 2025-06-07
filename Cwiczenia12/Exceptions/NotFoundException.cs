@@ -1,3 +1,3 @@
-﻿namespace CW_10_s30071.Exceptions;
+﻿namespace Cwiczenia12.Exceptions;
 
 public class NotFoundException(string message) : Exception(message);

@@ -1,8 +1,7 @@
-﻿using CW_10_s30071.Models;
-using CW_10_s30071.Services;
+﻿using Cwiczenia12.Services;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CW_10_s30071.Controllers;
+namespace Cwiczenia12.Controllers;
 
 [ApiController]
 [Route("api")]

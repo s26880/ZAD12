@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using CW_10_s30071.Models;
+﻿using Cwiczenia12.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace CW_10_s30071.Data;
+namespace Cwiczenia12.Data;
 
 public partial class _2019sbdContext : DbContext
 {

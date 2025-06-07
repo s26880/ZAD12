@@ -1,6 +1,6 @@
-@CW_10_s30071_HostAddress = http://localhost:5000
+@Cwiczenia12_HostAddress = http://localhost:5000
 
-GET {{CW_10_s30071_HostAddress}}/weatherforecast/
+GET {{Cwiczenia12_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

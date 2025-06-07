@@ -1,10 +1,10 @@
-﻿using CW_10_s30071.Data;
-using CW_10_s30071.Exceptions;
-using CW_10_s30071.Models;
-using CW_10_s30071.Models.DTOs;
+﻿using Cwiczenia12.Data;
+using Cwiczenia12.Exceptions;
+using Cwiczenia12.Models;
+using Cwiczenia12.Models.DTOs;
 using Microsoft.EntityFrameworkCore;
 
-namespace CW_10_s30071.Services;
+namespace Cwiczenia12.Services;
 
 public interface IDbService
 {
