@@ -28,7 +28,7 @@ public partial class _2019sbdContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.HasDefaultSchema("s30071");
+        modelBuilder.HasDefaultSchema("s26880");
 
         modelBuilder.Entity<Client>(entity =>
         {
